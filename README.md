@@ -4,7 +4,7 @@ A script to scan for nearby Xiaomi m365 scooters and unlock them if they are loc
 Will work best with scooters on 1.3.8 firmware.
 (pretty much any modified firmware as this is the most compatible)
 .
-A good platform for this attack is a Raspberry Pi broadcasting a WiFi hotspot, or a cron job if you want to unlock all scooters in your path.
+A good platform for this attack is a Raspberry Pi with a button, or a cron job if you want to unlock all scooters in your path automatically.
 
 Please do not target scooters without the express consent of the users targeted.
 I do not take any responsibility for your actions.
