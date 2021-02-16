@@ -9,6 +9,9 @@ A good platform for this attack is a Raspberry Pi with a button in a backpack, o
 Please do not target scooters without the express consent of the users targeted.
 I do not take any responsibility for your actions.
 
+The reason this works is essentially due to poor access control on the scooter's microcontroller that relies on the phone providing the check for a lock code. 
+Instead of verifying the scooter password, the phone sends an unlock/lock code that can be triggered by anyone.
+
 ## Installation of pip and modules
 
 ```sh
