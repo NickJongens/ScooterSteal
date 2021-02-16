@@ -2,9 +2,9 @@
 
 A script to scan for nearby Xiaomi m365 scooters and unlock them if they are locked.
 Will work best with scooters on 1.3.8 firmware.
-(pretty much any modified firmware as this is the most compatible)
+(pretty much any modified firmware as this is the most stable firmware allowing speed control etc)
 .
-A good platform for this attack is a Raspberry Pi with a button, or a cron job if you want to unlock all scooters in your path automatically.
+A good platform for this attack is a Raspberry Pi with a button in a backpack, or a cron job if you want to unlock all scooters in your path automatically.
 
 Please do not target scooters without the express consent of the users targeted.
 I do not take any responsibility for your actions.
@@ -34,7 +34,7 @@ sudo python -m m365py
 
 Clone the Repository:
 ```sh
-git clone https://github.com/NickJongens/ScooterJam.git
+git clone https://github.com/NickJongens/ScooterSteal.git
 ```
 
 
